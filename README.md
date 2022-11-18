@@ -14,3 +14,5 @@ https://docs.expo.dev/guides/typescript/
 https://github.com/react-native-maps/react-native-maps
 https://www.apollographql.com/docs/react/integrations/react-native/
 http://localhost:5001/api/viable-armadillo
+
+https://reactnativeelements.com/docs
