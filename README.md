@@ -16,3 +16,6 @@ https://www.apollographql.com/docs/react/integrations/react-native/
 http://localhost:5001/api/viable-armadillo
 
 https://reactnativeelements.com/docs
+
+
+https://redux-toolkit.js.org/tutorials/quick-start
